@@ -1,1 +1,3 @@
 # odin-recipes
+
+Hello everyone! Welcome to my first ever TOP project! Today, I will be creating a simple recipes website (please do not use any of the actual recipes on this website, the descriptions are only written for the purpose of demonstrating my HTML skills thus far) using the basic HTML knowledge that I have learned about thus far. After the project is completed, I should have been able to demonstrate my skills in applying the following: proper HTML boilerplate code, use of headings and paragraphs, bold and italic text, links and images, lists, and much more! With that said, thank for viewing my repo and enjoy the project!
