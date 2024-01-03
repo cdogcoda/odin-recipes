@@ -20,9 +20,25 @@ div.homepage {
     background-color: rgba(240, 248, 255, .75);
 }
 
+.homepage .list-contain {
+    box-sizing: border-box;
+    width: 50%;
+    border: rgb(255, 242, 130) 5px double;
+    border-radius: 12px;
+    background-color: rgb(218, 240, 240);
+    margin: 0 auto;
+    padding: 8px 16px;
+}
+
+.homepage .list-contain h3 {
+    font-weight: 700;
+    font-size: 20px;
+}
+
 div.homepage ul {
     list-style-type: none;
     padding: 0;
+    margin-bottom: 20px;
 }
 
 div.homepage ul li {
@@ -103,3 +119,4 @@ div.third-recipe {
 .third-recipe li {
     margin: 5px 0;
 }
+
