@@ -39,9 +39,6 @@ body.first-recipe {
 }
 
 div.first-recipe {
-    width: 85%;
-    margin: 16px auto;
-    padding: 10px;
     background-color: rgb(248, 211, 216);
 }
 
@@ -69,9 +66,6 @@ body.second-recipe {
 }
 
 div.second-recipe {
-    width: 85%;
-    margin: 16px auto;
-    padding: 10px;
     background-color: lightgoldenrodyellow;
 }
 
@@ -99,9 +93,6 @@ body.third-recipe {
 }
 
 div.third-recipe {
-    width: 85%;
-    margin: 16px auto;
-    padding: 10px;
     background-color: rgb(219, 241, 230);
 }
 
@@ -128,4 +119,10 @@ img.second-recipe, img.third-recipe,
 div.homepage, div.first-recipe,
 div.second-recipe, div.third-recipe {
     border-radius: 12px;
+}
+
+div.first-recipe, div.second-recipe, div.third-recipe {
+    width: 85%;
+    margin: 16px auto;
+    padding: 10px;
 }
