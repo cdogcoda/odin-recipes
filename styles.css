@@ -15,6 +15,9 @@ body.homepage {
 div.homepage {
     width: 75%;
     margin: auto;
+    margin-top: 25px;
+    padding: 10px;
+    background-color: rgba(240, 248, 255, .75);
 }
 
 div.homepage ul {
@@ -24,4 +27,9 @@ div.homepage ul {
 
 div.homepage ul li {
     margin: 10px 0;
+}
+
+img.homepage, div.homepage {
+    border: rgb(70, 37, 0) 3px solid;
+    border-radius: 12px;
 }
