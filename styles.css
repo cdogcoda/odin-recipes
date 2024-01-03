@@ -42,14 +42,6 @@ div.first-recipe {
     background-color: rgb(248, 211, 216);
 }
 
-.first-recipe ul, .first-recipe ol {
-    padding: 0;
-}
-
-.first-recipe li {
-    margin: 5px 0;
-}
-
 img.first-recipe, div.first-recipe {
     border: rgb(114, 8, 8) 3px solid;
 }
@@ -61,14 +53,6 @@ body.second-recipe {
 
 div.second-recipe {
     background-color: lightgoldenrodyellow;
-}
-
-.second-recipe li {
-    margin: 5px 0;
-}
-
-.second-recipe ul, .second-recipe ol {
-    padding: 0;
 }
 
 img.second-recipe, div.second-recipe {
@@ -84,14 +68,6 @@ div.third-recipe {
     background-color: rgb(219, 241, 230);
 }
 
-.third-recipe li {
-    margin: 5px 0;
-}
-
-.third-recipe ul, .third-recipe ol {
-    padding: 0;
-}
-
 img.third-recipe, div.third-recipe {
     border: rgb(3, 77, 3) 3px solid;
 }
@@ -103,7 +79,8 @@ div.second-recipe, div.third-recipe {
     border-radius: 12px;
 }
 
-div.first-recipe, div.second-recipe, div.third-recipe {
+div.first-recipe, div.second-recipe, 
+div.third-recipe {
     width: 85%;
     margin: 16px auto;
     padding: 10px;
@@ -114,4 +91,15 @@ div.first-recipe, div.second-recipe, div.third-recipe {
     width: fit-content;
     text-align: initial;
     margin: auto;
+}
+
+.first-recipe ul, .first-recipe ol, 
+.second-recipe ul, .second-recipe ol, 
+.third-recipe ul, .third-recipe ol{
+    padding: 0;
+}
+
+.first-recipe li, .second-recipe li, 
+.third-recipe li {
+    margin: 5px 0;
 }
