@@ -5,6 +5,9 @@ Hello everyone! Welcome to my first ever TOP project! Today, I will be creating 
 Update:
 Hello everyone! Welcome back to the repo! I just through the first two lessons of CSS Foundations, and so I've come back to demonstrate my skills and knowledge of what I've learned thus far. After the completion of this project, I should have been able to demonstrate my skills in applying the following: use of a multitude of selectors (type, class, ID, etc), connecting of said selectors (grouping, chaining, etc), use of combinators (descendant combinator), use of different properties, use of the cascade (specificity, rule order, etc), and much more! And with that, thank you for once again coming back to the repo and enjoy the project!
 
+Second Update:
+Hi everyone! Back again to update the repo using the new CSS knowledge I have just learned relating to the box model, normal flow of webpages, and block/inline elements! I will be restyling only the homepage of this recipe website using the knowledge I have learned and by the end, should have demonstrated basic proficiency in creating a more or less decent layout for my website's homepage. With that said, thank you again for coming back to view my repo so soon and enjoy the project!
+
 Credits:
 Hot Pockets Image: https://target.scene7.com/is/image/Target/GUEST_a18ea36c-1c23-450d-8c24-e8ea46980e68?wid=488&hei=488&fmt=pjpeg
 Pizza Rolls Image: https://www.meijer.com/content/dam/meijer/product/0042/80/0005/83/0042800005830_0_A1C1_1200.jpg
