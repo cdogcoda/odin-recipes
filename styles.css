@@ -64,3 +64,34 @@ img.first-recipe, div.first-recipe {
     border: rgb(114, 8, 8) 3px solid;
     border-radius: 12px;
 }
+
+body.second-recipe {
+    color: rgb(112, 112, 17);
+    background-color: rgb(247, 247, 141);
+}
+
+div.second-recipe {
+    width: 85%;
+    margin: 16px auto;
+    padding: 10px;
+    background-color: lightgoldenrodyellow;
+}
+
+.second-recipe .list-contain {
+    width: fit-content;
+    text-align: initial;
+    margin: auto;
+}
+
+.second-recipe li {
+    margin: 5px 0;
+}
+
+.second-recipe ul, .second-recipe ol {
+    padding: 0;
+}
+
+img.second-recipe, div.second-recipe {
+    border: rgb(112, 112, 17) 3px solid;
+    border-radius: 12px;
+}
