@@ -31,7 +31,6 @@ div.homepage ul li {
 
 img.homepage, div.homepage {
     border: rgb(70, 37, 0) 3px solid;
-    border-radius: 12px;
 }
 
 body.first-recipe {
@@ -62,7 +61,6 @@ div.first-recipe {
 
 img.first-recipe, div.first-recipe {
     border: rgb(114, 8, 8) 3px solid;
-    border-radius: 12px;
 }
 
 body.second-recipe {
@@ -93,7 +91,6 @@ div.second-recipe {
 
 img.second-recipe, div.second-recipe {
     border: rgb(112, 112, 17) 3px solid;
-    border-radius: 12px;
 }
 
 body.third-recipe {
@@ -124,5 +121,11 @@ div.third-recipe {
 
 img.third-recipe, div.third-recipe {
     border: rgb(3, 77, 3) 3px solid;
+}
+
+img.homepage, img.first-recipe,
+img.second-recipe, img.third-recipe,
+div.homepage, div.first-recipe,
+div.second-recipe, div.third-recipe {
     border-radius: 12px;
 }
