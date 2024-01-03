@@ -95,3 +95,34 @@ img.second-recipe, div.second-recipe {
     border: rgb(112, 112, 17) 3px solid;
     border-radius: 12px;
 }
+
+body.third-recipe {
+    color: rgb(3, 77, 3);
+    background-color: rgb(178, 240, 178);
+}
+
+div.third-recipe {
+    width: 85%;
+    margin: 16px auto;
+    padding: 10px;
+    background-color: rgb(219, 241, 230);
+}
+
+.third-recipe .list-contain {
+    width: fit-content;
+    text-align: initial;
+    margin: auto;
+}
+
+.third-recipe li {
+    margin: 5px 0;
+}
+
+.third-recipe ul, .third-recipe ol {
+    padding: 0;
+}
+
+img.third-recipe, div.third-recipe {
+    border: rgb(3, 77, 3) 3px solid;
+    border-radius: 12px;
+}
