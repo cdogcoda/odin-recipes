@@ -55,3 +55,12 @@ div.first-recipe {
 .first-recipe ul, .first-recipe ol {
     padding: 0;
 }
+
+.first-recipe li {
+    margin: 5px 0;
+}
+
+img.first-recipe, div.first-recipe {
+    border: rgb(114, 8, 8) 3px solid;
+    border-radius: 12px;
+}
