@@ -6,4 +6,4 @@ Credits:
 Hot Pockets Image: https://target.scene7.com/is/image/Target/GUEST_a18ea36c-1c23-450d-8c24-e8ea46980e68?wid=488&hei=488&fmt=pjpeg
 Pizza Rolls Image: https://www.meijer.com/content/dam/meijer/product/0042/80/0005/83/0042800005830_0_A1C1_1200.jpg
 Dino Nuggets Image: https://www.kroger.com/product/images/large/back/0006456345001
-
+The Odin Project Logo Image: https://www.theodinproject.com/assets/og-logo-dc2c719e367496ffaee876882b3f62c9b139279824de6a6e16448398fa513f7a.png 
